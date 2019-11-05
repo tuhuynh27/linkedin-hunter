@@ -12,6 +12,9 @@ Save your day with LinkedIn for the Hunters, brings automation click to help you
 ![](https://i.imgur.com/881RHDh.png)
 ![](https://i.imgur.com/vfwyuoK.png)
 
+![](https://i.imgur.com/kyz0yQZ.png)
+
 And then enjoy the result immediately!
 
 ![](https://i.imgur.com/18CGxMS.png)
+![](https://i.imgur.com/mvRmHW4.png)
