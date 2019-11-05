@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "LinkedIn Hunter",
+  "description": "Save your day with LinkedIn for the Hunters, brings automation click to help you connect more and more people",
+  "version": "0.0.1",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": ["tabs", "<all_urls>"]
+}

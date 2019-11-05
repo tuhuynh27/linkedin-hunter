@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400&amp;subset=vietnamese"
+    />
+    <meta charSet="utf-8" />
+    <style type="text/css">
+      * {
+        font-family: "Montserrat", Tahoma, Verdana;
+      }
+      a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+      }
+      body {
+        width: 400px;
+        height: 400px;
+        background: #283e4a;
+        color: white;
+      }
+      #clickme {
+        border-radius: 10px;
+        padding: 0.5rem;
+        font-family: "Montserrat", Tahoma, Verdana;
+        font-size: 1rem;
+        background: white;
+        color: #283e4a;
+      }
+      .content {
+        font-size: 1rem;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+      .intro {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+      }
+      .copyRight {
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="intro">
+      LinkedIn Hunter v0.0.1
+    </div>
+    <div class="content">
+      <div id="openPage">
+        <a href="https://www.linkedin.com/mynetwork/" target="_blank"
+          >Mở LinkedIn để bắt đầu</a
+        >
+      </div>
+      <div id="hunt">
+        <button id="clickme">Bắt đầu Hunt!</button>
+      </div>
+    </div>
+    <div class="copyRight">
+      Developed by Tu Huynh
+    </div>
+    <script type="text/javascript" src="popup.js"></script>
+  </body>
+</html>
