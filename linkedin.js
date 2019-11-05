@@ -52,12 +52,12 @@ function sendConnections() {
 
   console.log("FINISHED!");
   console.log("Sent " + totalConnectionsSent + " connections.");
-  console.log("Have a nice work day at Glints :)");
+  console.log("Have a nice work day :)");
 
   alert(
     "FINISHED!\n\nSent " +
       totalConnectionsSent +
-      " connections.\nHave a nice work day at Glints :)"
+      " connections.\nHave a nice work day :)"
   );
 }
 
