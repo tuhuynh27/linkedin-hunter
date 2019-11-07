@@ -7,7 +7,7 @@
 3. Enable "Developer mode" (look on the top right)
 4. Drag the extension file into this tab (**not to open that file** :|), and enjoy it :)
 
-- I'm waiting the Chrome Store to verify the app so we will have an easier way to install it :)
+(I'm waiting the Chrome Store to verify the app so we will have an easier way to install it)
 
 Save your day with LinkedIn for the Hunters, brings automation click to help you connect more and more people :-)
 
@@ -20,3 +20,7 @@ And then enjoy the result immediately!
 
 ![](https://i.imgur.com/18CGxMS.png)
 ![](https://i.imgur.com/mvRmHW4.png)
+
+Should have 100~300 connections added per day :)
+
+![](https://i.imgur.com/4ZKfVFO.png)
