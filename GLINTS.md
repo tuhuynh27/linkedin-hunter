@@ -1,5 +1,7 @@
 # LinkedIn Auto Send Invites
 
+(*) For Windows users
+
 1. Open Chrome, visit [https://www.linkedin.com/mynetwork/](https://www.linkedin.com/mynetwork/)
 2. Click F12 on keyboard, a left (or bottom) popup will show, you can see as below:
 
