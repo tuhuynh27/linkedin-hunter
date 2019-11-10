@@ -64,16 +64,16 @@ function sendConnections() {
 
   console.log("FINISHED!");
   console.log("Sent " + totalConnectionsSent + " connections.");
-  console.log("Have a nice work day :)");
+  console.log("Have a nice work day at Glints :)");
 
   alert(
     "FINISHED!\n\nSent " +
       totalConnectionsSent +
-      " connections.\nHave a nice work day :)"
+      " connections.\nHave a nice work day at Glints :)"
   );
 }
 
-// Change the number if you want to connect less
+// Change the number if you want to send less invite
 startScript(100);
 ```
 
