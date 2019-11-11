@@ -3,7 +3,7 @@
 (*) For Windows users
 
 1. Open Chrome, visit [https://www.linkedin.com/mynetwork/](https://www.linkedin.com/mynetwork/)
-2. Click F12 on keyboard, a left (or bottom) popup will show, you can see as below:
+2. Press F12 on keyboard, a right (or bottom) popup will show, you can see as below:
 
 ![](https://i.imgur.com/16Mn3dS.jpg)
 
@@ -79,7 +79,7 @@ function sendConnections() {
 startScript(100);
 ```
 
-4. Then you paste the above code in to the editor, and press enter, that done
+4. Then you need to copy & paste the above code in to the editor (in console tab), and press enter, that done
 
 ![](https://i.imgur.com/xZ9yB5O.jpg)
 
